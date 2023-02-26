@@ -27,13 +27,13 @@
     <img src="images/Logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Arduino MIDI master clock</h3>
+  <h3 align="center">Arduino Taiko Arcade Controller</h3>
   <h3 align="center">ManuDevTools</h3>
 
   <p align="center">
-    Clock made in arduino to synchronize the tempo of synthesizers. Designed for Pocket Operator (and compatible)
+    This is a controller designed, printed and programmed to play Taiko No Tatsujin in a more arcade way.
     <br />
-    <a href="https://github.com/ManuDevTools/Arduino_MidiMasterClock"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ManuDevTools/Arduino_TaikoArcadeController"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCZrp9AK2TuKEl2BZkwJ5y3Q">View Demo</a>
@@ -67,18 +67,11 @@
 </a>
 </div>
 <br>
-Midi Master Clock, is a project based on https://github.com/ejlabs/arduino-midi-sync.
+Arcade Taiko Controller is a project made on Arduino, in its Pro Micro variety. 
+It has 4 Sanwa buttons that act like 4 letters on a keyboard.
+Its casing tries to imitate the style of the famous Tatacon (the drum where Taiko No Tatsujin is originally played) and was modeled in Fusion 360. It has a small display where small animations of the game are shown, only for decoration.
 
-In this case, it has been modified to be used with 8-segment displays, through multiplexing with a shift register, making use of interrupts with the Arduino Timer2.
-
-This project has three parts.
-
-Electronic assembly. PCB scheme and Gerber file.
-
-Microcontroller programming.
-
-3D design of the cover.
-
+In the repository you can find the arduino source as well as the STL files to print a new case.
 
 Feel free to use it and modify it as you need.
 
@@ -92,17 +85,6 @@ Thank you!
 
 <div align="center">
     <img src="https://www.tecnoshoponline.es/wp-content/uploads/logo-arduino.png" alt="Logo" width="80" height="80">
-</div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-You can follow the steps in the following video to get the tool working on your local computer. 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=NrZ5Ll2yZns"><img src="https://img.youtube.com/vi/NrZ5Ll2yZns/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,7 +104,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 LinkedIn - [@LinkedIn](https://www.linkedin.com/in/manuelspk/)
 
-Project Link: [https://github.com/ManuDevTools/Arduino_MidiMasterClock](https://github.com/ManuDevTools/Arduino_MidiMasterClock)
+Project Link: [https://github.com/ManuDevTools/Arduino_TaikoArcadeController](https://github.com/ManuDevTools/Arduino_TaikoArcadeController)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
