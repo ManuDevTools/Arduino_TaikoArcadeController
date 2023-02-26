@@ -68,7 +68,9 @@
 </div>
 <br>
 Arcade Taiko Controller is a project made on Arduino, in its Pro Micro variety. 
+
 It has 4 Sanwa buttons that act like 4 letters on a keyboard.
+
 Its casing tries to imitate the style of the famous Tatacon (the drum where Taiko No Tatsujin is originally played) and was modeled in Fusion 360. It has a small display where small animations of the game are shown, only for decoration.
 
 In the repository you can find the arduino source as well as the STL files to print a new case.
